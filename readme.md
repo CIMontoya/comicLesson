@@ -1,3 +1,6 @@
+# My Surge Link: cimontoya-comic-lesson.surge.sh
+
+
 # ajax-drill Do Jquery orrrr
 
 Exercise using AJAX calls to the xkcd site and DOM manipulation
@@ -66,6 +69,6 @@ Exercise using Fetch to the xkcd site and DOM manipulation
 ```
 function randomize(min,max) {
     return Math.floor(Math.random() * (max - min + 1) + min)
-    
+
 }
 ```
