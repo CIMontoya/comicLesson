@@ -20,7 +20,7 @@ document.addEventListener("DOMContentLoaded", function() {
     })
 
   function randomize() {
-    return Math.floor(Math.random() * (666 - 1 + 1) + 1)
+    return Math.floor(Math.random() * 667 + 1)
   }
 
   function toggleContent() {

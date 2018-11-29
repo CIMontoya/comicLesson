@@ -1,4 +1,4 @@
-# My Surge Link: cimontoya-comic-lesson.surge.sh
+My Surge Link: cimontoya-comic-lesson.surge.sh
 
 
 # ajax-drill Do Jquery orrrr
